@@ -1,5 +1,5 @@
 {
-  "name": "sunniesttime",
+  "name": "sunniest-time",
   "version": "0.0.1",
   "description": "Easy way to determine the sunniest point in the day.",
   "main": "index.js",
