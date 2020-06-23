@@ -1,0 +1,30 @@
+{
+  "name": "sunniesttime",
+  "version": "0.0.1",
+  "description": "Easy way to determine the sunniest point in the day.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "joelworsham/sunniest-time"
+  },
+  "keywords": [
+    "sun",
+    "sunny",
+    "sunniest",
+    "time",
+    "day",
+    "hour",
+    "forecast",
+    "weather",
+    "app",
+    "tool"
+  ],
+  "author": " <Joel Worsham>",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
