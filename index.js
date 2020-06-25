@@ -6,4 +6,5 @@ const getSunniestTimes = require('./lib/getSunniestTimes');
   const sunniestTimes = await getSunniestTimes(apiUrl, { minHour: 12, maxHour: 17 });
 
   console.log(sunniestTimes);
+  process.exit()
 })();

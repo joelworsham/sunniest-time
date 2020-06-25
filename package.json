@@ -4,6 +4,7 @@
   "description": "Easy way to determine the sunniest point in the day.",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "test"
   },
   "repository": {
